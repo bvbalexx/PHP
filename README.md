@@ -1,1 +1,1 @@
-# PHP
+This project is a user registration and authentication system developed in PHP using the MVC (Model-View-Controller) architecture. It allows users to create new accounts and log in, with all data stored and managed in a database. 
